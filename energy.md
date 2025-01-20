@@ -4,9 +4,7 @@
 
 Kinetic energy in classical mechanics can be described through the equation:
 
-```math
-E = \dfrac{1}{2}mv^2
-```
+$`E = \dfrac{1}{2}mv^2`$
 
 `E` represents the `kinetic energy` of a system.
 
