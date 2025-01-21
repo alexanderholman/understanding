@@ -28,25 +28,25 @@ $$v = p/m$$
 
 We can use the equation above to then describe `kinetic energy` of a system in terms of `momentum` as follows:
 
-$$E = (1/2)mv^2 [expand]$$
+$$E = \dfrac{1}{2}mv^2 [expand]$$
 
-$$E = (1/2)mvv [multiply by 2]$$
+$$E = \dfrac{1}2{}mvv [multiply by 2]$$
 
 $$2E = mvv [substitute p for mv]$$
 
 $$2E = pv [substitute v for p/m]$$
 
-$$2E = pp/m [simplify]$$
+$$2E = \dfrac{pp}{m} [simplify]$$
 
-$$2E = p^2/m [divide by 2]$$
+$$2E = \dfrac{p^2}{m} [divide by 2]$$
 
-$$E = p^2/2m$$
+$$E = \dfrac{p^2}{2m}$$
 
 ## Momentum described in quantum mechanics
 
 Momentum can be described in quantum mechanics using the formula:
 
-$$p = \hbark$$
+$$p = {\hbar}k$$
 
 `$\hbar` represents the `reduced Plancks constant`.
 
@@ -56,10 +56,10 @@ $$p = \hbark$$
 
 Using the equations above, we can then describe `kinetic energy` in terms of `momentum` using quantum mechanics as follows:
 
-$$E_{kinetic} = p^2/2m [expand]$$
-$$E_{kinetic} = pp/2m [substitute p for {hbar}k]$$
-$$E_{kinetic} = \hbark\hbark/2m [simplify]$$
-$$E_{kinetic} = \hbar^2k^2/2m$$
+$$E_{kinetic} = \dfrac{p^2}{2m} [expand]$$
+$$E_{kinetic} = \dfrac{pp}{2m} [substitute p for {hbar}k]$$
+$$E_{kinetic} = \dfrac{{\hbar}k\{hbar}k}{2m} [simplify]$$
+$$E_{kinetic} = \dfrac{{\hbar}^2k^2}{2m}$$
 
 ## Total Energy in quantum mechanics
 
