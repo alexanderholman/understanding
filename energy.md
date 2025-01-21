@@ -28,17 +28,17 @@ $$v = \dfrac{p}{m}$$
 
 We can use the equation above to then describe `kinetic energy` of a system in terms of `momentum` as follows:
 
-$$E = \dfrac{1}{2}mv^2 \text{[expand]}$$
+$$E = \dfrac{1}{2}mv^2 & \text{[expand]}$$
 
-$$E = \dfrac{1}{2}mvv \text{[multiply by 2]}$$
+$$E = \dfrac{1}{2}mvv & \text{[multiply by 2]}$$
 
-$$2E = mvv \text{[substitute p for mv]}$$
+$$2E = mvv & \text{[substitute p for mv]}$$
 
-$$2E = pv \text{[substitute v for p/m]$$
+$$2E = pv & \text{[substitute v for p/m]}$$
 
-$$2E = \dfrac{pp}{m} \text{[simplify]}$$
+$$2E = \dfrac{pp}{m} & \text{[simplify]}$$
 
-$$2E = \dfrac{p^2}{m} \text{[divide by 2]}$$
+$$2E = \dfrac{p^2}{m} & \text{[divide by 2]}$$
 
 $$E = \dfrac{p^2}{2m}$$
 
@@ -48,7 +48,7 @@ Momentum can be described in quantum mechanics using the formula:
 
 $$p = {\hbar}k$$
 
-$\{hbar}$ represents the `reduced Plancks constant`.
+`${\hbar}$` represents the `reduced Plancks constant`.
 
 `k` represents a particle's (e.g. an electron) wave vector.
 
@@ -56,9 +56,9 @@ $\{hbar}$ represents the `reduced Plancks constant`.
 
 Using the equations above, we can then describe `kinetic energy` in terms of `momentum` using quantum mechanics as follows:
 
-$$E_{kinetic} = \dfrac{p^2}{2m} \text{[expand]}$$
-$$E_{kinetic} = \dfrac{pp}{2m} \text{[substitute p for {hbar}k]}$$
-$$E_{kinetic} = \dfrac{{\hbar}k{\hbar}k}{2m} \text{[simplify]}$$
+$$E_{kinetic} = \dfrac{p^2}{2m} & \text{[expand]}$$
+$$E_{kinetic} = \dfrac{pp}{2m} & \text{[substitute p for {hbar}k]}$$
+$$E_{kinetic} = \dfrac{{\hbar}k{\hbar}k}{2m} & \text{[simplify]}$$
 $$E_{kinetic} = \dfrac{{\hbar}^2k^2}{2m}$$
 
 ## Total Energy in quantum mechanics
