@@ -88,9 +88,25 @@ The `total energy` of a system can be described in 2 parts; `kinetic energy` and
 
 $$E_{total} = E_{kinetic} + E_{potential}$$
 
-$E_{potential}$ is the `potential energy` of a system caused by its position `r` (or, equivalently `k` in `reciprical space` within a `periodic lattice`. It arises from particle to particle interaction, e.g. `ion` to `ion` `(i-i)`, `electron` to `electron` `(e-e)`, and `ion` to `electron` `(i-e)`. Such that the `potential energy` of a system can be described as:
+$E_{potential}$ is the `potential energy` of a system caused by its position `r` (or, equivalently `k` in `reciprical space` within a `periodic lattice`. It arises from particle to particle interaction, e.g. `ion` to `ion` `(i-i)`, `electron` to `electron` `(e-e)`, and `ion` to `electron` `(i-e)`.
 
-$$E_{potential} = \sum{E_{i-i}} + \sum{E_{e-e}} + \sum{E_{i-e}}$$
+### Particle pair interactions
+
+#### Ion - Ion
+
+E_{i-i} = \sum_{i,j} V_{i-i}(|\mathbf{r}_i - \mathbf{r}_j|)
+
+#### Electron - Electron
+
+E_{e-e} = \sum_{i,j} V_{e-e}(|\mathbf{r}_i - \mathbf{r}_j|)
+
+#### Ion - Electron
+
+E_{i-e} = \sum_{i,j} V_{i-e}(|\mathbf{r}_i - \mathbf{r}_j|)
+
+Such that the `potential energy` of a system can be described as:
+
+$$E_{potential} = E_{i-i} + E_{e-e} + E_{i-e}$$
 
 ## The Free Electron Approximation
 
