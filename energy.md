@@ -48,7 +48,9 @@ $$2E = \dfrac{pp}{m}$$
 
 Simplify to:
 
-$$2E = \dfrac{p^2}{m}$$ [divide by 2]
+$$2E = \dfrac{p^2}{m}$$
+
+Divide by _2_:
 
 $$E = \dfrac{p^2}{2m}$$
 
@@ -66,9 +68,18 @@ ${\hbar}$ represents the `reduced Plancks constant`.
 
 Using the equations above, we can then describe `kinetic energy` in terms of `momentum` using quantum mechanics as follows:
 
-$$E_{kinetic} = \dfrac{p^2}{2m} & \text{[expand]}$$
-$$E_{kinetic} = \dfrac{pp}{2m} & \text{[substitute p for {hbar}k]}$$
-$$E_{kinetic} = \dfrac{{\hbar}k{\hbar}k}{2m} & \text{[simplify]}$$
+$$E_{kinetic} = \dfrac{p^2}{2m}$$
+
+Expand to:
+
+$$E_{kinetic} = \dfrac{pp}{2m}$$
+
+Substitute _p_ for $\{hbar}k$:
+
+$$E_{kinetic} = \dfrac{{\hbar}k{\hbar}k}{2m}$$
+
+Simplify to:
+
 $$E_{kinetic} = \dfrac{{\hbar}^2k^2}{2m}$$
 
 ## Total Energy in quantum mechanics
@@ -77,9 +88,9 @@ The `total energy` of a system can be described in 2 parts; `kinetic energy` and
 
 $$E_{total} = E_{kinetic} + E_{potential}$$
 
-`$E_{potential}` is the `potential energy` of a system caused by its position `r` (or, equivalently `k` in `reciprical space` within a `periodic lattice`. It arises from particle to particle interaction, e.g. `ion` to `ion` `(i-i)`, `electron` to `electron` `(e-e)`, and `ion` to `electron` `(i-e)`. Such that the `potential energy` of a system can be described as:
+$E_{potential}$ is the `potential energy` of a system caused by its position `r` (or, equivalently `k` in `reciprical space` within a `periodic lattice`. It arises from particle to particle interaction, e.g. `ion` to `ion` `(i-i)`, `electron` to `electron` `(e-e)`, and `ion` to `electron` `(i-e)`. Such that the `potential energy` of a system can be described as:
 
-$$E_{potential} = Sum(E_{i-i}) + Sum(E_{e-e}) + Sum(E_{i-e})$$
+$$E_{potential} = \sum{E_{i-i}} + \sum{E_{e-e}} + \sum{E_{i-e}}$$
 
 ## The Free Electron Approximation
 
