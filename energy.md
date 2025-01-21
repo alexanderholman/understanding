@@ -30,7 +30,7 @@ We can use the equation above to then describe `kinetic energy` of a system in t
 
 $$E = \dfrac{1}{2}mv^2 [expand]$$
 
-$$E = \dfrac{1}2{}mvv [multiply by 2]$$
+$$E = \dfrac{1}{2}mvv [multiply by 2]$$
 
 $$2E = mvv [substitute p for mv]$$
 
@@ -48,7 +48,7 @@ Momentum can be described in quantum mechanics using the formula:
 
 $$p = {\hbar}k$$
 
-`$\hbar` represents the `reduced Plancks constant`.
+$`\{hbar}`$ represents the `reduced Plancks constant`.
 
 `k` represents a particle's (e.g. an electron) wave vector.
 
@@ -58,7 +58,7 @@ Using the equations above, we can then describe `kinetic energy` in terms of `mo
 
 $$E_{kinetic} = \dfrac{p^2}{2m} [expand]$$
 $$E_{kinetic} = \dfrac{pp}{2m} [substitute p for {hbar}k]$$
-$$E_{kinetic} = \dfrac{{\hbar}k\{hbar}k}{2m} [simplify]$$
+$$E_{kinetic} = \dfrac{{\hbar}k{\hbar}k}{2m} [simplify]$$
 $$E_{kinetic} = \dfrac{{\hbar}^2k^2}{2m}$$
 
 ## Total Energy in quantum mechanics
