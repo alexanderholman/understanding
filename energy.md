@@ -28,17 +28,23 @@ $$v = \dfrac{p}{m}$$
 
 We can use the equation above to then describe `kinetic energy` of a system in terms of `momentum` as follows:
 
-$$E = \dfrac{1}{2}mv^2 %{[expand]}$$
+$$E = \dfrac{1}{2}mv^2$$
+> [expand]
 
-$$E = \dfrac{1}{2}mvv & \text{[multiply by 2]}$$
+$$E = \dfrac{1}{2}mvv$$
+> [multiply by 2]
 
-$$2E = mvv & \text{[substitute p for mv]}$$
+$$2E = mvv$$
+> [substitute p for mv]
 
-$$2E = pv & \text{[substitute v for p/m]}$$
+$$2E = pv$$
+> [substitute v for p/m]
 
-$$2E = \dfrac{pp}{m} & \text{[simplify]}$$
+$$2E = \dfrac{pp}{m}$$
+> [simplify]
 
-$$2E = \dfrac{p^2}{m} & \text{[divide by 2]}$$
+$$2E = \dfrac{p^2}{m}$$
+> [divide by 2]
 
 $$E = \dfrac{p^2}{2m}$$
 
