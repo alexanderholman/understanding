@@ -74,7 +74,7 @@ Expand to:
 
 $$E_{kinetic} = \dfrac{pp}{2m}$$
 
-Substitute _p_ for $\{hbar}k$:
+Substitute _p_ for ${\hbar}k$:
 
 $$E_{kinetic} = \dfrac{{\hbar}k{\hbar}k}{2m}$$
 
@@ -107,6 +107,18 @@ $$E_{i-e} = \sum_{i,j} V_{i-e}(|\mathbf{r}_i - \mathbf{r}_j|)$$
 Such that the `potential energy` of a system can be described as:
 
 $$E_{potential} = E_{i-i} + E_{e-e} + E_{i-e}$$
+
+#### Generalised formulation
+
+Let the interactions be denoted by $S = [i-i, e-e, i-e]$.
+
+The total potential energy can now be expressed as:
+
+$$E_{potential} = \sum_{\alpha \in S} \sum_{i,j} V_{\alpha}(|\mathbf{r}_i - \mathbf{r}_j|)$$
+
+${\alpha}$ indexes the type of interaction (_i-i_, _e-e_, _i-e_).
+
+$V_{\alpha}(|\mathbf{r}_i - \mathbf{r}_j|)$ is the interaction potential for type , dependent on the distance $|\mathbf{r}_i - \mathbf{r}_j|$.
 
 ## The Free Electron Approximation
 
