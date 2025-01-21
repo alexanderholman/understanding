@@ -94,15 +94,15 @@ $E_{potential}$ is the `potential energy` of a system caused by its position `r`
 
 #### Ion - Ion
 
-E_{i-i} = \sum_{i,j} V_{i-i}(|\mathbf{r}_i - \mathbf{r}_j|)
+$$E_{i-i} = \sum_{i,j} V_{i-i}(|\mathbf{r}_i - \mathbf{r}_j|)$$
 
 #### Electron - Electron
 
-E_{e-e} = \sum_{i,j} V_{e-e}(|\mathbf{r}_i - \mathbf{r}_j|)
+$$E_{e-e} = \sum_{i,j} V_{e-e}(|\mathbf{r}_i - \mathbf{r}_j|)$$
 
 #### Ion - Electron
 
-E_{i-e} = \sum_{i,j} V_{i-e}(|\mathbf{r}_i - \mathbf{r}_j|)
+$$E_{i-e} = \sum_{i,j} V_{i-e}(|\mathbf{r}_i - \mathbf{r}_j|)$$
 
 Such that the `potential energy` of a system can be described as:
 
