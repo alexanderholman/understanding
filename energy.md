@@ -4,7 +4,7 @@
 
 Kinetic energy in classical mechanics can be described through the equation:
 
-$`E = \dfrac{1}{2}mv^2`$
+$$E_kinetic = \dfrac{1}{2}mv^2$$
 
 `E` represents the `kinetic energy` of a system.
 
@@ -18,9 +18,7 @@ In quantum mechanics energy is represented in the form of momentum. This can als
 
 Momentum can be described in classical mechanics as:
 
-```
-p = mv
-```
+$$p = mv$$
 
 `p` represents the `momentum` of a `mass` at a given `velocity`.
 
